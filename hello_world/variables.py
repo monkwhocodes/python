@@ -9,3 +9,8 @@ age = 43
 
 #This is boolean which contain value of TRUE or FALSE
 is_registered = True
+
+print(name)
+print(surname)
+print(age)
+print(is_registered)
